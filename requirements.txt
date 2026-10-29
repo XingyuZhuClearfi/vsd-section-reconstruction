@@ -1,0 +1,8 @@
+torch>=2.4
+torchvision
+numpy
+scipy
+scikit-image
+pillow
+matplotlib
+tifffile
